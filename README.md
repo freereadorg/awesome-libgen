@@ -8,6 +8,7 @@
 - [Library Genesis tools](#Library-Genesis-tools)
 - [Sci-Hub tools](#Sci-Hub-tools)
 - [Paywall and DRM breakers](#Paywall-and-DRM-breakers)
+- [Open Access tools](#Open-Access-tools]
 - [eBook metadata](#eBook-metadata)
 - [Library Genesis documentation](#Library-Genesis-documentation)
 
@@ -40,6 +41,11 @@
 
 - [Bypass Paywalls Chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Paywall breaker for major newspapers around the world
 - [DeDRM Tools](https://github.com/apprenticeharper/DeDRM_tools/) - DRM removal for eBooks
+
+## Open Access tools
+
+- [Open Access Button](https://github.com/ourresearch/oadoi)
+- [Unpaywall](https://github.com/ourresearch/oadoi)
 
 ## eBook metadata
 
