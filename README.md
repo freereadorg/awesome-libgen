@@ -13,6 +13,11 @@
 ## Library Genesis platforms
 
 - [Knowl](https://gitlab.com/lucidhack/knowl) - Aggregated eBook Search Engine based on Elasticsearch, Logstash, and Kibana
+
+## Library Genesis documentation
+- [scimag Database documentation](https://gitlab.com/lucidhack/knowl/-/wikis/References/Libgen-Articles-Tables) - SQL documentation for the Sci-Hub collection
+- [scitech Database documentation](https://gitlab.com/lucidhack/knowl/-/wikis/References/Libgen-Science-Tables) - SQL documentation for the Non-Fiction collection
+- [fiction Database documentation](https://gitlab.com/lucidhack/knowl/-/wikis/References/Libgen-Fiction-Tables) - SQL documentation for the Fiction collection
 - [Commentated libgen_PHP source code](https://gitlab.com/libgen1/libgen_webcode) - Commentated open source PHP webcode for libgen
 - [Raw libgen PHP source code](https://github.com/adulau/Library-Genesis) - Archival open source PHP webcode for libgen, dated 2016-May
 
