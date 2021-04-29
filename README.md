@@ -5,7 +5,7 @@
 ## Contents
 
 - [Library Genesis platforms](#Library-Genesis-platforms)
-- [Library Genesis documentation](#Library-Genesis-documentation]
+- [Library Genesis documentation](#Library-Genesis-documentation)
 - [Library Genesis tools](#Library-Genesis-tools)
 - [Sci-Hub tools](#Sci-Hub-tools)
 - [Paywall and DRM breakers](#Paywall-and-DRM-breakers)
