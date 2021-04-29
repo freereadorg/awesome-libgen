@@ -9,12 +9,14 @@
 - [Sci-Hub tools](#Sci-Hub-tools)
 - [Paywall and DRM breakers](#Paywall-and-DRM-breakers)
 - [eBook metadata](#eBook-metadata)
+- [Library Genesis documentation](#Library-Genesis-documentation]
 
 ## Library Genesis platforms
 
 - [Knowl](https://gitlab.com/lucidhack/knowl) - Aggregated eBook Search Engine based on Elasticsearch, Logstash, and Kibana
 
-## Library Genesis documentation
+
+- [Library Genesis documentation](#Library-Genesis-documentation]
 - [scimag Database documentation](https://gitlab.com/lucidhack/knowl/-/wikis/References/Libgen-Articles-Tables) - SQL documentation for the Sci-Hub collection
 - [scitech Database documentation](https://gitlab.com/lucidhack/knowl/-/wikis/References/Libgen-Science-Tables) - SQL documentation for the Non-Fiction collection
 - [fiction Database documentation](https://gitlab.com/lucidhack/knowl/-/wikis/References/Libgen-Fiction-Tables) - SQL documentation for the Fiction collection
