@@ -20,8 +20,6 @@
 - [Nexus Cognitron](https://github.com/nexus-stc/hyperboria/tree/master/nexus/cognitron) - Web-interface and search engine for Library Genesis IPFS access
 - [Knowl](https://gitlab.com/lucidhack/knowl) - Aggregated eBook Search Engine based on Elasticsearch, Logstash, and Kibana
 
-Cognitron is a web-interface and search engine with database files (for LibGen only ATM) placed on IPFS. It is tested by several persons. Database is suited with IPFS hashes for all files so Cognitron is a really standalone library. Attention! It is not a ready one-click app. Yet. You must be a developer to make out how to launch it.
-
 ## Library Genesis documentation
 
 - [scimag Database documentation](https://gitlab.com/lucidhack/knowl/-/wikis/References/Libgen-Articles-Tables) - SQL documentation for the Sci-Hub collection
