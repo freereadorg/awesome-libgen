@@ -13,9 +13,14 @@
 - [eBook metadata](#eBook-metadata)
 - [Library Genesis documentation](#Library-Genesis-documentation)
 
-## Library Genesis platforms
+## Library Genesis platforms and APIs
 
+- [Nexus Hyperboria](https://github.com/nexus-stc/hyperboria) - Python-based tool pack for using the scimag and scitech collections, visit [https://t.me/libgen_scihub_bot](@libgen_scihub_bot) to demo
+- [Nexus Pylon](https://github.com/nexus-stc/hyperboria/tree/master/nexus/pylon) - Python library and CLI for downloading articles and books by DOI/MD5 through proxies
+- [Nexus Cognitron](https://github.com/nexus-stc/hyperboria/tree/master/nexus/cognitron) - Web-interface and search engine for Library Genesis IPFS access
 - [Knowl](https://gitlab.com/lucidhack/knowl) - Aggregated eBook Search Engine based on Elasticsearch, Logstash, and Kibana
+
+Cognitron is a web-interface and search engine with database files (for LibGen only ATM) placed on IPFS. It is tested by several persons. Database is suited with IPFS hashes for all files so Cognitron is a really standalone library. Attention! It is not a ready one-click app. Yet. You must be a developer to make out how to launch it.
 
 ## Library Genesis documentation
 
@@ -27,7 +32,7 @@
 
 ## Library Genesis tools
 
-- [LibGen Mobile for Android](https://github.com/manuelvargastapia/libgen_mobile_app) - Android app for Library Genesis
+- - [LibGen Mobile for Android](https://github.com/manuelvargastapia/libgen_mobile_app) - Android app for Library Genesis
 - [LibGen Uploader](https://github.com/ftruzzi/libgen_uploader) - Bulk eBook uploader for Library Genesis
 - [LibGen CLI](https://github.com/ciehanski/libgen-cli) - Command line interface for downloading from Library Genesis
 - [LibGen Desktop](https://github.com/libgenapps/LibgenDesktop) - Windows-based desktop software for downloading from Library Genesis
