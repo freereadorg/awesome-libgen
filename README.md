@@ -9,7 +9,7 @@
 - [Sci-Hub tools](#Sci-Hub-tools)
 - [Paywall and DRM breakers](#Paywall-and-DRM-breakers)
 - [eBook metadata](#eBook-metadata)
-- [Library Genesis documentation](#Library-Genesis-documentation]
+- [Library Genesis documentation](#Library-Genesis-documentation)
 
 ## Library Genesis platforms
 
