@@ -13,7 +13,8 @@
 ## Library Genesis platforms
 
 - [Knowl](https://gitlab.com/lucidhack/knowl) - Aggregated eBook Search Engine based on Elasticsearch, Logstash, and Kibana
-- [libgen PHP source code](https://github.com/adulau/Library-Genesis) - Archival open source PHP webcode for libgen, dated 2016-May
+- [Commentated libgen_PHP source code](https://gitlab.com/libgen1/libgen_webcode) - Commentated open source PHP webcode for libgen
+- [Raw libgen PHP source code](https://github.com/adulau/Library-Genesis) - Archival open source PHP webcode for libgen, dated 2016-May
 
 ## Library Genesis tools
 
