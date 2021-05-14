@@ -30,7 +30,7 @@
 
 ## Library Genesis tools
 
-- - [LibGen Mobile for Android](https://github.com/manuelvargastapia/libgen_mobile_app) - Android app for Library Genesis
+- [LibGen Mobile for Android](https://github.com/manuelvargastapia/libgen_mobile_app) - Android app for Library Genesis
 - [LibGen Uploader](https://github.com/ftruzzi/libgen_uploader) - Bulk eBook uploader for Library Genesis
 - [LibGen CLI](https://github.com/ciehanski/libgen-cli) - Command line interface for downloading from Library Genesis
 - [LibGen Desktop](https://github.com/libgenapps/LibgenDesktop) - Windows-based desktop software for downloading from Library Genesis
