@@ -19,6 +19,7 @@
 - [Nexus Pylon](https://github.com/nexus-stc/hyperboria/tree/master/nexus/pylon) - Python library and CLI for downloading articles and books by DOI/MD5 through proxies
 - [Nexus Cognitron](https://github.com/nexus-stc/hyperboria/tree/master/nexus/cognitron) - Web-interface and search engine for Library Genesis IPFS access
 - [Knowl](https://gitlab.com/lucidhack/knowl) - Aggregated eBook Search Engine based on Elasticsearch, Logstash, and Kibana
+- [Libgen.JS](https://github.com/dunn/libgen.js) - The Library Genesis API (and more) for Node.js
 
 ## Library Genesis documentation
 
