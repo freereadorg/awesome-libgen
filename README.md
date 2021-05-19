@@ -46,6 +46,7 @@
 
 - [Bypass Paywalls Chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Paywall breaker for major newspapers around the world
 - [DeDRM Tools](https://github.com/apprenticeharper/DeDRM_tools/) - DRM removal for eBooks
+- [The Free Internet Plugin](https://github.com/hackernoon/Free-Internet-Plugin) - Chrome browser plugin that removes paywalled content from Google search results
 
 ## Open Access tools
 
