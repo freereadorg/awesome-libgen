@@ -56,6 +56,10 @@
 
 - [Goodreads Metadata](https://github.com/MengtingWan/goodreads) - Goodreads meta-data and book reviews on 2,360,655 books
 
+## Database dump
+
+- [IPFS 29-05-2021] (https://ipfs.io/ipfs/QmNnaY81E9SM7dwgfTFeyvAhsQZ4iiMZG2Eg6XgoqbxP3P) - scimag, non-fiction, fiction
+
 ## Contribute
 
 Contributions welcome.
