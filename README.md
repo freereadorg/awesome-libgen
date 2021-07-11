@@ -42,6 +42,12 @@
 - [Zotero Sci-Hub](https://github.com/ethanwillis/zotero-scihub) - Zotero plugin to download from Sci-Hub
 - [Sci-Hub Statistics](https://github.com/greenelab/scihub) - Data analysis tool and Journal/Publisher Coverage Browser
 
+## Library Genesis & Sci-Hub Torrent tools
+- [Libgen Seedtools](https://github.com/subdavis/libgen-seedtools) - A python utility to fetch and seed a common dataset to both IPFS and a BitTorrent tracker
+- [Seed tracking service #1](https://phillm.net/libgen-stats-formatted.php) - Service tracking health of individual Libgen and Sci-Hub Torrents
+- [Seed tracking service #2](https://zrthstr.github.io/libgen_torrent_cardiography/index.html) - Another LG&Sci-Hub torrent seed count tracking service
+- [LibGen Seeding Guide](https://freeread.org/torrents.html) - Information on the Library Genesis Seeding Project
+
 ## Paywall and DRM breakers
 
 - [Bypass Paywalls Chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Paywall breaker for major newspapers around the world
