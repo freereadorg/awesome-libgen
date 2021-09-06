@@ -45,7 +45,7 @@
 
 ## Library Genesis & Sci-Hub Torrent tools
 - [Libgen Seedtools](https://github.com/subdavis/libgen-seedtools) - A python utility to fetch and seed a common dataset to both IPFS and a BitTorrent tracker
-- [PhilM's LibGen Torrent Health Tracker](https://phillm.net/libgen-stats-table.php) - Find out which torrents need seeders - Service tracking health of individual Libgen and Sci-Hub Torrents. Supports URL Query Strings, [view a sample query string here](https://phillm.net/torrent-health-frontend/stats-filtered-table.php?propname%5B%5D=seeders&comp%5B%5D=%3C&value%5B%5D=12&propname%5B%5D=type&comp%5B%5D===&value%5B%5D=scimag).
+- [PhillM's LibGen Torrent Health Tracker](https://phillm.net/libgen-stats-table.php) - Find out which torrents need seeders - Service tracking health of individual Libgen and Sci-Hub Torrents. Supports URL Query Strings: [view a sample query string here](https://phillm.net/torrent-health-frontend/stats-filtered-table.php?propname%5B%5D=seeders&comp%5B%5D=%3C&value%5B%5D=12&propname%5B%5D=type&comp%5B%5D===&value%5B%5D=scimag). View on GitHub: (phillmac/torrent-health-frontend)[https://github.com/phillmac/]
 - [zrthstr's LibGen Torrent Health Tracker](https://zrthstr.github.io/libgen_torrent_cardiography/index.html) - Another torrent seed count tracking service
 - [LibGen Seeding Guide](https://freeread.org/torrents.html) - Information on the Library Genesis Seeding Project
 
