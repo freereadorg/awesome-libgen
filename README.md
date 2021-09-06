@@ -35,6 +35,7 @@
 - [LibGen Uploader](https://github.com/ftruzzi/libgen_uploader) - Bulk eBook uploader for Library Genesis
 - [LibGen CLI](https://github.com/ciehanski/libgen-cli) - Command line interface for downloading from Library Genesis
 - [LibGen Desktop](https://github.com/libgenapps/LibgenDesktop) - Windows-based desktop software for downloading from Library Genesis
+- [Libgen Scan](https://github.com/nfd9001/Libgen-Scan/) - Android application that searches for books on Library Genesis by scanning their barcodes
 
 ## Sci-Hub tools
 
