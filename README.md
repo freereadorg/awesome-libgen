@@ -37,6 +37,7 @@
 - [LibGen Downloader](https://github.com/obsfx/libgen-downloader) - libgen-downloader is a simple command line tool to search and download ebooks from libgen that was developed using NodeJS, TypeScript, React, Ink and Zustand.
 - [LibGen Desktop](https://github.com/libgenapps/LibgenDesktop) - Windows-based desktop software for downloading from Library Genesis
 - [Libgen Scan](https://github.com/nfd9001/Libgen-Scan/) - Android application that searches for books on Library Genesis by scanning their barcodes
+- [bunken (文献) for Goodreads](https://github.com/laxyapahuja/bunken) - A chrome extension to download ebooks directly from Goodreads.
 - [GoodReads Search in LibGen Extension](https://github.com/smoqadam/search-in-libgen) - With this extension, you can search in LibGen when you are browsing the Goodreads.
 
 ## Sci-Hub tools
