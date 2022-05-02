@@ -21,8 +21,9 @@
 - [Knowl](https://gitlab.com/lucidhack/knowl) - Aggregated eBook Search Engine based on Elasticsearch, Logstash, and Kibana
 - [Libgen.JS](https://github.com/dunn/libgen.js) - The Library Genesis API (and more) for Node.js
 
-## Library Genesis documentation
+## Library Genesis database access and documentation
 
+- [lgdbdumps Database downloader](https://github.com/lgdbdumps/lgdbdumps) - IPFS-hosted Library Genesis database store
 - [scimag Database documentation](https://gitlab.com/lucidhack/knowl/-/wikis/References/Libgen-Articles-Tables) - SQL documentation for the Sci-Hub collection
 - [scitech Database documentation](https://gitlab.com/lucidhack/knowl/-/wikis/References/Libgen-Science-Tables) - SQL documentation for the Non-Fiction collection
 - [fiction Database documentation](https://gitlab.com/lucidhack/knowl/-/wikis/References/Libgen-Fiction-Tables) - SQL documentation for the Fiction collection
