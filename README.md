@@ -58,7 +58,7 @@
 ## Paywall and DRM breakers
 
 - [Bypass Paywalls Chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Paywall breaker for major newspapers around the world
-- [DeDRM Tools](https://github.com/apprenticeharper/DeDRM_tools/) - DRM removal for eBooks
+- [DeDRM Tools](https://github.com/noDRM/DeDRM_tools) - DRM removal for eBooks
 
 ## Open Access tools
 
